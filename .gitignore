@@ -166,5 +166,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Ignore folder
+dialogsum/
+flan-t5-base-checkpoint/
 flan-dialogue-summary-checkpoint/
-dialogue-summary-training-1689428062/
+peft-dialogue-summary-training/

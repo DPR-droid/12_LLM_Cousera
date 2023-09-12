@@ -143,6 +143,7 @@ ehthumbs_vista.db
 config.py
 config_test.py
 dbconfig.py
+Lab_3_fine_tune_model_to_detoxify.ipynb
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -170,3 +171,4 @@ dialogsum/
 flan-t5-base-checkpoint/
 flan-dialogue-summary-checkpoint/
 peft-dialogue-summary-training/
+roberta-hate-speech-dynabench-r4-target/
